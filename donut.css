@@ -1,0 +1,13 @@
+.donut{
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    overflow: hidden;
+    border: 2px black solid;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+/**#donut{
+    margin-left: 25px;
+    margin-top: 25px;
+}
